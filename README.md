@@ -1,5 +1,5 @@
 <a href="https://github.com/09ubberboy90">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=09ubberboy90&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=09ubberboy90&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/09ubberboy90">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09ubberboy90&layout=compact" />
